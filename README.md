@@ -132,7 +132,7 @@ Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTIN
 ## 💬 Questions & Support
 
 - [Open an issue](https://github.com/KazKozDev/Net_Reflective_Reasoning_LLM/issues/new) for bug reports or feature requests
-- Create discussions (coming soon) for questions or ideas
+- [Join the discussion](https://github.com/KazKozDev/Net_Reflective_Reasoning_LLM/discussions) for questions or ideas
 
 ## 📝 License
 
