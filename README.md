@@ -1,3 +1,5 @@
+![Description of the image](https://github.com/KazKozDev/Net_Reflective_Reasoning_LLM/blob/main/path_to_image/Net.jpg)
+
 # Net Reflective Reasoning LLM
 
 [![Python Version](https://img.shields.io/badge/python-3.7%2B-blue)](https://www.python.org)
