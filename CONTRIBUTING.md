@@ -20,8 +20,8 @@ We love your input! We want to make contributing to Net Reflective Reasoning LLM
 
 1. Clone your fork:
 ```bash
-git clone https://github.com/kazkozdev/net-reflective-reasoning-llm.git
-cd net-reflective-reasoning-llm
+git clone https://github.com/KazKozDev/Net_Reflective_Reasoning_LLM.git
+cd Net_Reflective_Reasoning_LLM
 ```
 
 2. Create a virtual environment:
@@ -95,7 +95,7 @@ Before submitting your changes:
 
 ## Bug Reports
 
-Report bugs using [GitHub Issues](https://github.com/kazkozdev/net-reflective-reasoning-llm/issues). When reporting bugs, please include:
+To report a bug, [create a new issue](https://github.com/KazKozDev/Net_Reflective_Reasoning_LLM/issues/new) with the "bug" label. When reporting bugs, please include:
 
 1. A quick summary and/or background
 2. Steps to reproduce
@@ -112,21 +112,21 @@ Report bugs using [GitHub Issues](https://github.com/kazkozdev/net-reflective-re
 
 ## Feature Requests
 
-We welcome feature requests! Please create a new [Feature Request](https://github.com/kazkozdev/net-reflective-reasoning-llm/issues/new?labels=enhancement) and include:
+We welcome feature requests! To propose a new feature, [create a new issue](https://github.com/KazKozDev/Net_Reflective_Reasoning_LLM/issues/new) with the "enhancement" label and include:
 
 1. Clear description of the feature
 2. Use cases
 3. Potential implementation approach
 4. Why this feature would be useful
 
+## Questions?
+
+Have questions or need help? Here are some ways to get assistance:
+
+- [Create a new discussion](https://github.com/KazKozDev/Net_Reflective_Reasoning_LLM/discussions)
+- [Check existing issues](https://github.com/KazKozDev/Net_Reflective_Reasoning_LLM/issues) for similar questions
+- [Create a new issue](https://github.com/KazKozDev/Net_Reflective_Reasoning_LLM/issues/new) with the "question" label
+
 ## License
 
 By contributing, you agree that your contributions will be licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Questions?
-
-Feel free to [open an issue](https://github.com/kazkozdev/net-reflective-reasoning-llm/issues/new?labels=question) for questions or join the discussion in existing issues.
-
-## References
-
-This document was adapted from the open-source contribution guidelines for [Facebook's Draft](https://github.com/facebook/draft-js/blob/a9316a723f9e918afde44dea68b5f9f39b7d9b00/CONTRIBUTING.md).
