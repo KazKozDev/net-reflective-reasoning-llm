@@ -65,8 +65,8 @@ A sophisticated web-enabled Language Model framework built on Ollama, featuring 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/kazkozdev/net-reflective-reasoning-llm.git
-cd net-reflective-reasoning-llm
+git clone https://github.com/KazKozDev/Net_Reflective_Reasoning_LLM.git
+cd Net_Reflective_Reasoning_LLM
 ```
 
 2. Install dependencies:
@@ -131,8 +131,8 @@ Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTIN
 
 ## 💬 Questions & Support
 
-- [Open an issue](https://github.com/kazkozdev/net-reflective-reasoning-llm/issues/new) for bug reports or feature requests
-- [Start a discussion](https://github.com/kazkozdev/net-reflective-reasoning-llm/discussions) for questions or ideas
+- [Open an issue](https://github.com/KazKozDev/Net_Reflective_Reasoning_LLM/issues/new) for bug reports or feature requests
+- Create discussions (coming soon) for questions or ideas
 
 ## 📝 License
 
