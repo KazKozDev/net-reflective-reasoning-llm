@@ -1,4 +1,4 @@
-![Description of the image](https://github.com/kazkozdev/net-reflective-reasoning-llm/blob/main/net.jpg)
+![Description of the image](https://github.com/kazkozdev/net-reflective-reasoning-llm/blob/main/net-reasoning-banner.jpg)
 
 # Net Reflective Reasoning LLM
 
