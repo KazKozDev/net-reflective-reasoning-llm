@@ -1,4 +1,4 @@
-![Description of the image](https://github.com/KazKozDev/Net_Reflective_Reasoning_LLM/blob/main/Net.jpg)
+![Description of the image](https://github.com/kazkozdev/net-reflective-reasoning-llm/blob/main/net.jpg)
 
 # Net Reflective Reasoning LLM
 
@@ -55,7 +55,7 @@ A sophisticated web-enabled Language Model framework built on Ollama, featuring 
 ## 💻 Requirements
 
 - Python 3.7+
-- [Ollama](https://ollama.ai) with Gemma2:9B model
+- [Ollama](https://ollama.com) with Gemma2:9B model
 - Required Python packages:
   - aiohttp
   - requests
@@ -67,8 +67,8 @@ A sophisticated web-enabled Language Model framework built on Ollama, featuring 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/KazKozDev/Net_Reflective_Reasoning_LLM.git
-cd Net_Reflective_Reasoning_LLM
+git clone https://github.com/kazkozdev/net-reflective-reasoning-llm.git
+cd net-reflective-reasoning-llm
 ```
 
 2. Install dependencies:
@@ -87,16 +87,16 @@ ollama pull gemma2:9b
 ### Standalone Mode
 Run the main script:
 ```bash
-python main.py
+python src/main.py
 ```
 
 ### Integration Mode
 Import and use as a web search agent in your multi-agent system:
 ```python
-from net_reflective_llm import AdvancedGPTLike
+from src.net_reflective_llm import advancedgptlike
 
 # Initialize as web search agent
-search_agent = AdvancedGPTLike(model_name="gemma2:9b")
+search_agent = advancedgptlike(model_name="gemma2:9b")
 
 # Use in async context
 async def example():
@@ -133,8 +133,8 @@ Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTIN
 
 ## 💬 Questions & Support
 
-- [Open an issue](https://github.com/KazKozDev/Net_Reflective_Reasoning_LLM/issues/new) for bug reports or feature requests
-- [Join the discussion](https://github.com/KazKozDev/Net_Reflective_Reasoning_LLM/discussions) for questions or ideas
+- [Open an issue](https://github.com/kazkozdev/net-reflective-reasoning-llm/issues/new) for bug reports or feature requests
+- [Join the discussion](https://github.com/kazkozdev/net-reflective-reasoning-llm/discussions) for questions or ideas
 
 ## 📝 License
 
