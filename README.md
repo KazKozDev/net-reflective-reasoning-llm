@@ -16,9 +16,9 @@ A sophisticated web-enabled Language Model framework built on Ollama, featuring 
   - Self-evaluates knowledge gaps and automatically initiates web searches
   - Performs multi-stage analysis and verification of gathered information
 
-
-![Net Reflective Reasoning demo](https://github.com/kazkozdev/net-reflective-reasoning-llm/blob/main/net-reasoning-demo.gif)
-
+<p align="center">
+  <img src="https://github.com/kazkozdev/net-reflective-reasoning-llm/blob/main/net-reasoning-demo.gif" alt="Net Reflective Reasoning demo">
+</p>
 
 - **LLM Agent Integration**
   - Can serve as a specialized web search tool for LLM agent systems
