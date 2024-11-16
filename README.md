@@ -22,6 +22,8 @@ A sophisticated web-enabled Language Model framework built on Ollama, featuring 
   - Acts as an information retrieval and processing agent
   - Enhances other agents' capabilities with real-time web data
 
+## 🎬 Demo Preview
+
 ![Net Reflective Reasoning demo](https://github.com/kazkozdev/net-reflective-reasoning-llm/blob/main/net-reasoning-demo.gif)
 
 This demo demonstrates the system processing a user query 'bitcoin exchange rate', automatically transforming it to 'bitcoin price USD' for web search. The system then performs net scraping to gather relevant data and applies reflective reasoning methods to analyze the information before delivering comprehensive results to the user.
