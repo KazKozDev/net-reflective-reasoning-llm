@@ -1,13 +1,13 @@
 
 # Net Reflective Reasoning LLM
 
-![Description of the image](https://github.com/kazkozdev/net-reflective-reasoning-llm/blob/main/net-reasoning-banner.jpg)
-
 [![Python Version](https://img.shields.io/badge/python-3.7%2B-blue)](https://www.python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Ollama](https://img.shields.io/badge/Ollama-Gemma2%3A9B-green)](https://ollama.ai)
 
 A sophisticated web-enabled Language Model framework built on Ollama, featuring advanced reasoning capabilities and automated web search integration. The system utilizes the Gemma2:9B model as its core engine while incorporating multiple reasoning stages and web search capabilities for enhanced response accuracy.
+
+![Description of the image](https://github.com/kazkozdev/net-reflective-reasoning-llm/blob/main/net-reasoning-banner.jpg)
 
 ## 🎯 Main Capabilities
 
