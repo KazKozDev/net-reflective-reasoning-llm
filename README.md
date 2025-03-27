@@ -1,6 +1,4 @@
 
-# Net Reflective Reasoning LLM
-
 [![Python Version](https://img.shields.io/badge/python-3.7%2B-blue)](https://www.python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Ollama](https://img.shields.io/badge/Ollama-Gemma2%3A9B-green)](https://ollama.ai)
