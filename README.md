@@ -4,6 +4,9 @@
 [![Ollama](https://img.shields.io/badge/Ollama-Gemma2%3A9B-green)](https://ollama.ai)
 
 <p align="center"> <b>Net Reflective Reasoning</b> is a standalone agent-like script that conducts structured reasoning and searches the web for data to provide accurate answers.</p>
+
+<p align="center">Thoughtful reasoning. Live data. </p>
+
 Can be useful for developers, LLM enthusiasts who need real-time explainable answers based on structured reasoning and relevant information.
 
 ### Features
