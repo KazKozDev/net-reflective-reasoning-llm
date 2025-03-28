@@ -23,7 +23,7 @@ Can be useful for developers, LLM enthusiasts who need real-time explainable ans
 - Structured analysis pipeline: intent → search → critique → synthesis
 - Fully asynchronous architecture with caching and fallback strategies
 
-### 🎬 Demo
+### Demo
 
 ![Net Reflective Reasoning demo](https://github.com/kazkozdev/net-reflective-reasoning-llm/blob/main/net-reasoning-demo.gif)
 
