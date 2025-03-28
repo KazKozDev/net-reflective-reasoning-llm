@@ -3,8 +3,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Ollama](https://img.shields.io/badge/Ollama-Gemma2%3A9B-green)](https://ollama.ai)
 
-<p align="center"> <b>Net Reflective Reasoning</b> is an autonomous agent-like script that conducts structured reasoning and live web data retrieval for accurate responses.</p>
-This tool is built for developers, enthusiasts, and LLM engineers who need real-time, explainable answers powered by structured reasoning and current information.
+<p align="center"> <b>Net Reflective Reasoning</b> is a standalone agent-like script that conducts structured reasoning and searches the web for data to provide accurate answers.</p>
+Can be useful for developers, LLM enthusiasts who need real-time explainable answers based on structured reasoning and relevant information.
 
 ### Features
 - Reflective multi-stage reasoning with confidence scoring and critique
