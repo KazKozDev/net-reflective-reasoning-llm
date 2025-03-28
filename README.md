@@ -7,15 +7,10 @@
 This tool is built for developers, enthusiasts, and LLM engineers who need real-time, explainable answers powered by structured reasoning and current information.
 
 ### Features
-Reflective multi-stage reasoning with confidence scoring and critique
-
-Real-time web search with smart query reformulation and result parsing
-
-Structured analysis pipeline: intent → search → critique → synthesis
-
-Fully asynchronous architecture with caching and fallback strategies
-
-CLI interface with commands for reasoning inspection and system prompt control
+- Reflective multi-stage reasoning with confidence scoring and critique
+- Real-time web search with smart query reformulation and result parsing
+- Structured analysis pipeline: intent → search → critique → synthesis
+- Fully asynchronous architecture with caching and fallback strategies
 
 ## 🎬 Demo Preview
 
