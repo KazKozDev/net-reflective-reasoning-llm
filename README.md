@@ -4,7 +4,7 @@
 [![Ollama](https://img.shields.io/badge/Ollama-Gemma2%3A9B-green)](https://ollama.ai)
 
 <p align="center"> <b>Net Reflective Reasoning LLM</b> is an autonomous script that combines multi-step reasoning with real-time web search to answer complex queries. </p> <p align="center"> One prompt. Thoughtful reasoning. Live data. </p>
-This tool is built for developers, AI enthusiasts, and LLM engineers who need real-time, explainable answers powered by structured reasoning and current information.
+This tool is built for developers, enthusiasts, and LLM engineers who need real-time, explainable answers powered by structured reasoning and current information.
 
 ### Features
 Reflective multi-stage reasoning with confidence scoring and critique
