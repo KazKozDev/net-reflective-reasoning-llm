@@ -7,7 +7,7 @@
 
 <p align="center">Thoughtful reasoning. Live data. </p>
 
-This script can be useful for developers, LLM enthusiasts who need real-time explainable answers based on structured and relevant information.
+This agent-like script can be useful for developers, LLM enthusiasts who need real-time explainable answers based on structured and relevant information.
 
 ### Features
 - Reflective multi-stage reasoning with confidence scoring and critique
