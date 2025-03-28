@@ -23,7 +23,7 @@ This agent-like script can be useful for developers, LLM enthusiasts who need re
 - Structured analysis pipeline: intent → search → critique → synthesis
 - Fully asynchronous architecture with caching and fallback strategies
 
-## 🎬 Demo Preview
+### 🎬 Demo Preview
 
 ![Net Reflective Reasoning demo](https://github.com/kazkozdev/net-reflective-reasoning-llm/blob/main/net-reasoning-demo.gif)
 
