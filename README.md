@@ -11,7 +11,7 @@
 </p>
 
 
-<p align="center"> <b>Net Reflective Reasoning</b> conducts structured reasoning using reflective prompt techniques and web search capability.</p>
+<p align="center"> <b>Net Reflective Reasoning</b> conducts reasoning using reflective prompt techniques and web search capability.</p>
 
 <p align="center">Agent-like script.</p>
 
