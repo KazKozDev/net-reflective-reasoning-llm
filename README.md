@@ -59,15 +59,6 @@ pip install -r requirements.txt
 ollama pull gemma2:9b
 ```
 
-### Architecture
-
-The system consists of several key components:
-
-1. **EnhancedLLM**: Core class managing LLM interactions and reasoning process
-2. **WebSearchManager**: Handles web searches and content parsing
-3. **Conversation**: Manages conversation history and context
-4. **ReasoningChain**: Tracks and structures the reasoning process
-
 ### Reasoning Process Stages:
 - Initial Thoughts
 - Search Required
