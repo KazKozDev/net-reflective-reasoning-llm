@@ -67,7 +67,13 @@ ollama pull gemma2:9b
 - Refinement
 - Final Answer
 
-## 📝 License
+### License
 
-This project is licensed under the MIT License.
+Under the MIT License.
 
+---
+If you like this project, please give it a star ⭐
+
+For questions, feedback, or support, reach out to:
+
+[Artem KK](https://www.linkedin.com/in/kazkozdev/)
