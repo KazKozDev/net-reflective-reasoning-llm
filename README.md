@@ -11,7 +11,7 @@
 </p>
 
 
-<p align="center"> <b>Net Reflective Reasoning</b> conducts structured reasoning and searches the web to answer complex queries. </p>
+<p align="center"> <b>Net Reflective Reasoning</b> conducts structured reasoning prompt techniques and web search capapability. </p>
 
 <p align="center">Thoughtful reasoning. Live data. </p>
 
