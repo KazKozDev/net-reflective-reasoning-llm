@@ -1,13 +1,10 @@
-
-<center>
+<div align="center">
   <img src="https://github.com/user-attachments/assets/c8427ff2-970e-49a8-847a-5e7db3d90a76" alt="logo">
-</center>
-
-<p align="center"> <b>Net Reflective Reasoning</b> conducts reasoning using reflective prompt techniques and web search capability.</p>
-
-<p align="center">Agent-like script.</p>
-
-Can be useful for developers, LLM enthusiasts who need real-time explainable answers based on structured and relevant information.
+  <h2>Net Reflective Reasoning</h2>
+  <p>Conducts reasoning using reflective prompt techniques and web search capability.</p>
+  <p>Agent-like script.</p>
+  <p>Can be useful for developers, LLM enthusiasts who need real-time explainable answers based on structured and relevant information.</p>
+</div>
 
 ### Features
 - Reflective multi-stage reasoning with confidence scoring and critique
