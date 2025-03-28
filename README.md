@@ -1,18 +1,7 @@
 
-![logo](https://github.com/user-attachments/assets/c8427ff2-970e-49a8-847a-5e7db3d90a76)
-
-<p align="center">
-  <a href="https://www.python.org">
-    <img src="https://img.shields.io/badge/python-3.7%2B-blue" alt="Python Version">
-  </a>
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
-  </a>
-  <a href="https://ollama.ai">
-    <img src="https://img.shields.io/badge/Ollama-Gemma2%3A9B-green" alt="Ollama">
-  </a>
-</p>
-
+<center>
+  <img src="https://github.com/user-attachments/assets/c8427ff2-970e-49a8-847a-5e7db3d90a76" alt="logo">
+</center>
 
 <p align="center"> <b>Net Reflective Reasoning</b> conducts reasoning using reflective prompt techniques and web search capability.</p>
 
