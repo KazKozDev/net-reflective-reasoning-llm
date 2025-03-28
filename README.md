@@ -3,23 +3,19 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Ollama](https://img.shields.io/badge/Ollama-Gemma2%3A9B-green)](https://ollama.ai)
 
-A sophisticated web-enabled Language Model framework built on Ollama, featuring advanced reasoning capabilities and automated web search integration. The system utilizes the Gemma2:9B model as its core engine while incorporating multiple reasoning stages and web search capabilities for enhanced response accuracy.
+<p align="center"> <b>Net Reflective Reasoning LLM</b> is an autonomous script that combines multi-step reasoning with real-time web search to answer complex queries. </p> <p align="center"> One prompt. Thoughtful reasoning. Live data. </p>
+This tool is built for developers, AI enthusiasts, and LLM engineers who need real-time, explainable answers powered by structured reasoning and current information.
 
-![Description of the image](https://github.com/kazkozdev/net-reflective-reasoning-llm/blob/main/net-reasoning-banner.jpg)
+### Features
+Reflective multi-stage reasoning with confidence scoring and critique
 
-## 🎯 Main Capabilities
+Real-time web search with smart query reformulation and result parsing
 
-- **Standalone Operation**
-  - Functions as a complete autonomous system
-  - Independently retrieves and processes information from the web
-  - Self-evaluates knowledge gaps and automatically initiates web searches
-  - Performs multi-stage analysis and verification of gathered information
+Structured analysis pipeline: intent → search → critique → synthesis
 
-- **LLM Agent Integration**
-  - Can serve as a specialized web search tool for LLM agent systems
-  - Perfect for integration into multi-agent architectures
-  - Acts as an information retrieval and processing agent
-  - Enhances other agents' capabilities with real-time web data
+Fully asynchronous architecture with caching and fallback strategies
+
+CLI interface with commands for reasoning inspection and system prompt control
 
 ## 🎬 Demo Preview
 
