@@ -1,7 +1,15 @@
+<p align="center">
+  <a href="https://www.python.org">
+    <img src="https://img.shields.io/badge/python-3.7%2B-blue" alt="Python Version">
+  </a>
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
+  </a>
+  <a href="https://ollama.ai">
+    <img src="https://img.shields.io/badge/Ollama-Gemma2%3A9B-green" alt="Ollama">
+  </a>
+</p>
 
-[![Python Version](https://img.shields.io/badge/python-3.7%2B-blue)](https://www.python.org)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Ollama](https://img.shields.io/badge/Ollama-Gemma2%3A9B-green)](https://ollama.ai)
 
 <p align="center"> <b>Net Reflective Reasoning</b> conducts structured reasoning and searches the web to answer complex queries. </p>
 
