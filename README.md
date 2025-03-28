@@ -6,11 +6,7 @@
 
   <p>Can be useful for developers, LLM enthusiasts who need real-time explainable answers based on structured and relevant information.</p>
 
-### Features
-- Reflective multi-stage reasoning with confidence scoring and critique
-- Real-time web search with smart query reformulation and result parsing
-- Structured analysis pipeline: intent → search → critique → synthesis
-- Fully asynchronous architecture with caching and fallback strategies
+Reflective multi-stage reasoning with confidence scoring and critique, real-time web search with smart query reformulation and result parsing, structured analysis pipeline: intent → search → critique → synthesis, and fully asynchronous architecture with caching and fallback strategies.RetryClaude can make mistakes. Please double-check responses.
 
 ### Demo
 
