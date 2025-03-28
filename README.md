@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Ollama](https://img.shields.io/badge/Ollama-Gemma2%3A9B-green)](https://ollama.ai)
 
-<p align="center"> <b>Net Reflective Reasoning LLM</b> is an autonomous script that combines multi-step reasoning with real-time web search to answer complex queries. </p> <p align="center"> One prompt. Thoughtful reasoning. Live data. </p>
+<p align="center"> <b>Net Reflective Reasoning</b> is an autonomous script that combines multi-step reasoning with real-time web search to answer complex queries. </p> <p align="center"> One prompt. Thoughtful reasoning. Live data. </p>
 This tool is built for developers, enthusiasts, and LLM engineers who need real-time, explainable answers powered by structured reasoning and current information.
 
 ### Features
