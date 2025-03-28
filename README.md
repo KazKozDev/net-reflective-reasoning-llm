@@ -27,7 +27,7 @@ Can be useful for developers, LLM enthusiasts who need real-time explainable ans
 
 ![Net Reflective Reasoning demo](https://github.com/kazkozdev/net-reflective-reasoning-llm/blob/main/net-reasoning-demo.gif)
 
-> The demo illustrates the system’s pipeline: it interprets the query "bitcoin exchange rate", reformulates it to "bitcoin price USD", performs web search, parses the retrieved content, and executes a multi-stage reasoning process to generate the final response.
+> The demo illustrates the system’s pipeline: it interprets the query "bitcoin exchange rate", reformulates it to "bitcoin price USD", performs web search, parses the retrieved content, and executes a multi-stage reasoning process to generate the final response — all achieved by applying refinement techniques to a relatively compact 9B parameter model, which does not inherently possess such capabilities on its own.
 
 ### Requirements
 
