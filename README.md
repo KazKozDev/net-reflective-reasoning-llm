@@ -4,7 +4,7 @@
   <p>Agent-like script.</p>
 </div>
 
-Multi-stage reasoning with confidence scoring and critique, real-time web search with smart query reformulation and result parsing, structured analysis pipeline: intent → search → critique → synthesis, and fully asynchronous architecture with caching and fallback strategies. 
+Performs multi-stage reasoning with confidence scoring and critique, real-time web search with smart query reformulation and result parsing, structured analysis pipeline: intent → search → critique → synthesis, and fully asynchronous architecture with caching and fallback strategies. 
 
 Can be useful for developers, LLM enthusiasts who need real-time explainable answers based on structured and relevant information.
 
