@@ -13,9 +13,9 @@
 
 <p align="center"> <b>Net Reflective Reasoning</b> conducts structured reasoning using reflective prompt techniques and web search capability.</p>
 
-<p align="center">Thoughtful reasoning. Live data. </p>
+<p align="center">Agent-like script.</p>
 
-This agent-like script can be useful for developers, LLM enthusiasts who need real-time explainable answers based on structured and relevant information.
+Can be useful for developers, LLM enthusiasts who need real-time explainable answers based on structured and relevant information.
 
 ### Features
 - Reflective multi-stage reasoning with confidence scoring and critique
