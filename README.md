@@ -32,7 +32,7 @@ Can be useful for developers, LLM enthusiasts who need real-time explainable ans
 ### Requirements
 
 - Python 3.7+
-- [Ollama](https://ollama.com) with Gemma2:9B model
+- Ollama with Gemma2:9B
 - Required Python packages:
   - aiohttp
   - requests
